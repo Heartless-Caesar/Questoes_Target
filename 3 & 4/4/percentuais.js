@@ -20,8 +20,3 @@ for (let index = 0; index < dataArray.length; index++) {
     } corresponde a ${Math.round(aux)}% de ${sum}`
   );
 }
-
-// auxArray.forEach((valor) => {
-//   Math.round(valor);
-
-// });

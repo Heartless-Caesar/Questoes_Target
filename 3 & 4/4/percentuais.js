@@ -13,4 +13,8 @@ let sum = auxArray.reduce(function (a, b) {
   return a + b;
 });
 
-console.log(sum);
+auxArray.forEach((valor) => {
+  Math.round(valor);
+  let aux = (valor / sum) * 100;
+  console.log(`O valor ${valor} corresponde a ${Math.round(aux)}% de ${sum}`);
+});

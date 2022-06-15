@@ -1,0 +1,14 @@
+{
+  "name": "questoes_target",
+  "version": "1.0.0",
+  "description": "",
+  "main": "faturamentoMensal.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "target"
+  ],
+  "author": "Joao_Victor_Cesa",
+  "license": "ISC"
+}
